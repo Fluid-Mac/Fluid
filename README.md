@@ -6,7 +6,7 @@
 
 <div align="center">
 <a href="https://kioloao39498.github.io/.github/Fluid">
-<img src="https://img.shields.io/badge/Get_Fluid_App-2d2d2d?style=for-the-badge&logo=apple" alt="Fluid App Button">
+<img src="https://img.shields.io/badge/Get_Fluid_-2d2d2d?style=for-the-badge&logo=apple" alt="Fluid App Button">
 </a>
 </div>
 
